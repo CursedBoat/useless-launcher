@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "useless-launcher", "useless-launcher\useless-launcher.csproj", "{338C1909-09DA-4D6D-B1A0-8971A7557C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338C1909-09DA-4D6D-B1A0-8971A7557C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338C1909-09DA-4D6D-B1A0-8971A7557C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338C1909-09DA-4D6D-B1A0-8971A7557C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338C1909-09DA-4D6D-B1A0-8971A7557C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FBE5A5-4D1B-42AD-BA00-0ACA71D58E4F}
+	EndGlobalSection
+EndGlobal
