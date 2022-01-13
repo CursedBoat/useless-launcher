@@ -4,9 +4,11 @@ namespace useless_launcher
 {
 	class Program
 	{
-		static void Main(string[] args)
+		static void Main()
 		{
-			Console.WriteLine("Hello World!");
+			Console.CursorVisible = false; // Hides cursor.
+			Startup startLauncher = new Startup(); // Starts the program.
+			startLauncher.Start();
 		}
 	}
 }

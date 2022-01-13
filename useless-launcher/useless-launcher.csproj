@@ -6,4 +6,8 @@
     <RootNamespace>useless_launcher</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Figgle" Version="0.4.0" />
+  </ItemGroup>
+
 </Project>
